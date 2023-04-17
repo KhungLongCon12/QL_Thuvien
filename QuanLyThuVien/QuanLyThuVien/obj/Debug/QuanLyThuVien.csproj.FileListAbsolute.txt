@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.QuanLyNhanVien.resources
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.MainQLThuVien.resources
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.QuanLyDocGia.resources
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.QuanLySach.resources
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.QuanLyMuonSach.resources
+C:\Users\ASUS\OneDrive\Máy tính\NguyenKhacVu_1751010182_QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.GUI.QLTraSach.resources
